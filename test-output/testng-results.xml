@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="0" failed="2" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Mail Sent Successfully]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2018-05-29T07:39:15Z" name="Default suite" finished-at="2018-05-29T07:39:23Z" duration-ms="7794">
+    <groups>
+    </groups>
+    <test started-at="2018-05-29T07:39:15Z" name="Default test" finished-at="2018-05-29T07:39:23Z" duration-ms="7794">
+      <class name="com.domain.tests.LoginTest">
+        <test-method is-config="true" signature="startReport()[pri:0, instance:com.domain.tests.LoginTest@7905a0b8]" started-at="2018-05-29T07:39:15Z" name="startReport" finished-at="2018-05-29T07:39:15Z" duration-ms="431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.domain.tests.LoginTest@7905a0b8]" started-at="2018-05-29T07:39:16Z" name="preCondition" finished-at="2018-05-29T07:39:19Z" duration-ms="3357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="verify_login_and_logout_with_valid_user_name_and_password()[pri:0, instance:com.domain.tests.LoginTest@7905a0b8]" started-at="2018-05-29T07:39:19Z" name="verify_login_and_logout_with_valid_user_name_and_password" finished-at="2018-05-29T07:39:19Z" duration-ms="26" status="FAIL">
+          <exception class="java.io.FileNotFoundException">
+            <message>
+              <![CDATA[/Users/snehashish/shopkick_automation/CIService/RAFT/src/com/domain/testdata/LoginPageData.xlsx (No such file or directory)]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.io.FileNotFoundException: /Users/snehashish/shopkick_automation/CIService/RAFT/src/com/domain/testdata/LoginPageData.xlsx (No such file or directory)
+at java.base/java.io.FileInputStream.open0(Native Method)
+at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+at com.domain.generic.ExcelData.getData(ExcelData.java:15)
+at com.domain.tests.LoginTest.verify_login_and_logout_with_valid_user_name_and_password(LoginTest.java:90)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.io.FileNotFoundException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_login_and_logout_with_valid_user_name_and_password -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.domain.tests.LoginTest@7905a0b8]" started-at="2018-05-29T07:39:19Z" name="getResult" finished-at="2018-05-29T07:39:20Z" duration-ms="335" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verify_login_and_logout_with_valid_user_name_and_password status=FAILURE method=LoginTest.verify_login_and_logout_with_valid_user_name_and_password()[pri:0, instance:com.domain.tests.LoginTest@7905a0b8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.domain.tests.LoginTest@7905a0b8]" started-at="2018-05-29T07:39:20Z" name="postCondition" finished-at="2018-05-29T07:39:20Z" duration-ms="165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.domain.tests.LoginTest@7905a0b8]" started-at="2018-05-29T07:39:20Z" name="preCondition" finished-at="2018-05-29T07:39:22Z" duration-ms="2377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="verify_login_with_valid_username_and_password()[pri:0, instance:com.domain.tests.LoginTest@7905a0b8]" started-at="2018-05-29T07:39:22Z" name="verify_login_with_valid_username_and_password" finished-at="2018-05-29T07:39:22Z" duration-ms="2" status="FAIL">
+          <exception class="java.io.FileNotFoundException">
+            <message>
+              <![CDATA[/Users/snehashish/shopkick_automation/CIService/RAFT/src/com/domain/testdata/LoginPageData.xlsx (No such file or directory)]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.io.FileNotFoundException: /Users/snehashish/shopkick_automation/CIService/RAFT/src/com/domain/testdata/LoginPageData.xlsx (No such file or directory)
+at java.base/java.io.FileInputStream.open0(Native Method)
+at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+at com.domain.generic.ExcelData.getData(ExcelData.java:15)
+at com.domain.tests.LoginTest.verify_login_with_valid_username_and_password(LoginTest.java:42)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.io.FileNotFoundException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_login_with_valid_username_and_password -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.domain.tests.LoginTest@7905a0b8]" started-at="2018-05-29T07:39:23Z" name="getResult" finished-at="2018-05-29T07:39:23Z" duration-ms="320" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verify_login_with_valid_username_and_password status=FAILURE method=LoginTest.verify_login_with_valid_username_and_password()[pri:0, instance:com.domain.tests.LoginTest@7905a0b8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.domain.tests.LoginTest@7905a0b8]" started-at="2018-05-29T07:39:23Z" name="postCondition" finished-at="2018-05-29T07:39:23Z" duration-ms="168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:com.domain.tests.LoginTest@7905a0b8]" started-at="2018-05-29T07:39:23Z" name="endReport" finished-at="2018-05-29T07:39:29Z" duration-ms="5447" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Mail Sent Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.domain.tests.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

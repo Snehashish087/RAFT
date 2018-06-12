@@ -1,0 +1,79 @@
+2018-05-14 16:08:42,399 [main] INFO Pre-Condition - Open the Browser
+2018-05-14 16:08:48,570 [main] INFO Pre-Condition - Navigate to the website
+2018-05-14 16:08:53,270 [main] INFO Base Page - Checking the actual title with our expected title
+2018-05-14 16:08:53,418 [main] INFO Login Page - Enter the username in the username field
+2018-05-14 16:08:53,795 [main] INFO Login Page - Enter the password in the password field
+2018-05-14 16:08:53,989 [main] INFO Login Page - Click on login button
+2018-05-14 16:08:59,238 [main] INFO Base Page - Checking the actual title with our expected title
+2018-05-14 16:08:59,293 [main] INFO FacebookHomePage - Click on logout button
+2018-05-14 16:09:04,491 [main] INFO Post-Condition - Close the browser
+2018-05-14 16:09:04,756 [main] INFO Pre-Condition - Open the Browser
+2018-05-14 16:09:05,935 [main] INFO Pre-Condition - Navigate to the website
+2018-05-14 16:09:07,299 [main] INFO Login Page - Enter the username in the username field
+2018-05-14 16:27:12,551 [main] INFO Pre-Condition - Open the Browser
+2018-05-14 16:27:19,380 [main] INFO Pre-Condition - Navigate to the website
+2018-05-14 16:27:24,254 [main] INFO Base Page - Checking the actual title with our expected title
+2018-05-14 16:27:24,408 [main] INFO Login Page - Enter the username in the username field
+2018-05-14 16:27:24,816 [main] INFO Login Page - Enter the password in the password field
+2018-05-14 16:27:25,012 [main] INFO Login Page - Click on login button
+2018-05-14 16:27:30,246 [main] INFO Base Page - Checking the actual title with our expected title
+2018-05-14 16:27:30,306 [main] INFO FacebookHomePage - Click on logout button
+2018-05-14 16:27:35,786 [main] INFO Post-Condition - Close the browser
+2018-05-14 16:27:35,913 [main] INFO Pre-Condition - Open the Browser
+2018-05-14 16:27:37,627 [main] INFO Pre-Condition - Navigate to the website
+2018-05-14 16:27:38,789 [main] INFO Login Page - Enter the username in the username field
+2018-05-14 16:27:39,639 [main] INFO Login Page - Enter the password in the password field
+2018-05-14 16:27:39,838 [main] INFO Login Page - Click on login button
+2018-05-14 16:27:44,149 [main] INFO FacebookHomePage - Click on logout button
+2018-05-14 16:27:44,292 [main] INFO Post-Condition - Close the browser
+2018-05-14 17:12:29,910 [main] INFO Pre-Condition - Open the Browser
+2018-05-14 17:12:37,057 [main] INFO Pre-Condition - Navigate to the website
+2018-05-14 17:12:40,508 [main] INFO Post-Condition - Close the browser
+2018-05-14 17:12:40,701 [main] INFO Pre-Condition - Open the Browser
+2018-05-14 17:12:42,034 [main] INFO Pre-Condition - Navigate to the website
+2018-05-24 16:44:27,316 [main] INFO Pre-Condition - Open the Browser
+2018-05-24 16:44:32,816 [main] INFO Pre-Condition - Navigate to the website
+2018-05-24 16:44:35,301 [main] INFO Post-Condition - Close the browser
+2018-05-24 16:44:35,510 [main] INFO Pre-Condition - Open the Browser
+2018-05-24 16:44:37,093 [main] INFO Pre-Condition - Navigate to the website
+2018-05-24 16:44:38,847 [main] INFO Post-Condition - Close the browser
+2018-05-24 16:44:45,742 [main] INFO sendMail - Mail sent successfully
+2018-05-29 13:07:19,738 [main] INFO Pre-Condition - Open the Browser
+2018-05-29 13:07:23,712 [main] INFO Pre-Condition - Navigate to the website
+2018-05-29 13:07:28,005 [main] INFO Post-Condition - Close the browser
+2018-05-29 13:07:28,215 [main] INFO Pre-Condition - Open the Browser
+2018-05-29 13:07:29,779 [main] INFO Pre-Condition - Navigate to the website
+2018-05-29 13:07:31,492 [main] INFO Post-Condition - Close the browser
+2018-05-29 13:07:37,631 [main] INFO sendMail - Mail sent successfully
+2018-05-29 13:08:27,728 [main] INFO Pre-Condition - Open the Browser
+2018-05-29 13:08:30,048 [main] INFO Pre-Condition - Navigate to the website
+2018-05-29 13:08:32,313 [main] INFO Post-Condition - Close the browser
+2018-05-29 13:08:32,462 [main] INFO Pre-Condition - Open the Browser
+2018-05-29 13:08:33,867 [main] INFO Pre-Condition - Navigate to the website
+2018-05-29 13:08:35,522 [main] INFO Post-Condition - Close the browser
+2018-05-29 13:08:41,683 [main] INFO sendMail - Mail sent successfully
+2018-05-29 13:09:16,079 [main] INFO Pre-Condition - Open the Browser
+2018-05-29 13:09:18,483 [main] INFO Pre-Condition - Navigate to the website
+2018-05-29 13:09:20,302 [main] INFO Post-Condition - Close the browser
+2018-05-29 13:09:20,472 [main] INFO Pre-Condition - Open the Browser
+2018-05-29 13:09:22,005 [main] INFO Pre-Condition - Navigate to the website
+2018-05-29 13:09:23,617 [main] INFO Post-Condition - Close the browser
+2018-05-29 13:09:29,095 [main] INFO sendMail - Mail sent successfully
+2018-05-29 13:10:57,161 [main] INFO Pre-Condition - Open the Browser
+2018-05-29 13:10:59,536 [main] INFO Pre-Condition - Navigate to the website
+2018-05-29 13:11:02,168 [main] INFO Base Page - Checking the actual title with our expected title
+2018-05-29 13:11:02,278 [main] INFO Login Page - Enter the username in the username field
+2018-05-29 13:11:02,718 [main] INFO Login Page - Enter the password in the password field
+2018-05-29 13:11:02,902 [main] INFO Login Page - Click on login button
+2018-05-29 13:11:08,175 [main] INFO Base Page - Checking the actual title with our expected title
+2018-05-29 13:11:08,246 [main] INFO MetalmannHomePage - Click on logout button
+2018-05-29 13:11:13,448 [main] INFO Post-Condition - Close the browser
+2018-05-29 13:11:13,655 [main] INFO Pre-Condition - Open the Browser
+2018-05-29 13:11:15,698 [main] INFO Pre-Condition - Navigate to the website
+2018-05-29 13:11:16,778 [main] INFO Login Page - Enter the username in the username field
+2018-05-29 13:53:28,770 [main] INFO Pre-Condition - Open the Browser
+2018-05-29 13:53:33,083 [main] INFO Pre-Condition - Navigate to the website
+2018-05-29 13:53:37,874 [main] INFO Base Page - Checking the actual title with our expected title
+2018-05-29 13:53:37,991 [main] INFO Login Page - Enter the username in the username field
+2018-05-29 13:53:38,368 [main] INFO Login Page - Enter the password in the password field
+2018-05-29 13:53:38,565 [main] INFO Login Page - Click on login button

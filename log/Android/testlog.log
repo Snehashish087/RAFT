@@ -1,0 +1,476 @@
+2018-05-21 17:45:48,055 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-21 17:45:48,066 - Pre-Condition -INFO - Setting up the android platform
+2018-05-21 17:45:48,067 - Pre-Condition -INFO - Setting up the android device
+2018-05-21 17:45:48,068 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-21 17:45:49,317 - Pre-Condition -INFO - Unable to create the android session. Message:org.apache.http.conn.HttpHostConnectException: Connect to 127.0.0.1:4723 [/127.0.0.1] failed: Connection refused (Connection refused)
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'GW-DK-031.local', ip: '192.168.1.184', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: driver.version: AndroidDriver
+2018-05-21 17:47:37,329 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-21 17:47:37,375 - Pre-Condition -INFO - Setting up the android platform
+2018-05-21 17:47:37,376 - Pre-Condition -INFO - Setting up the android device
+2018-05-21 17:47:37,376 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-21 17:48:46,911 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-21 17:48:46,921 - Pre-Condition -INFO - Setting up the android platform
+2018-05-21 17:48:46,921 - Pre-Condition -INFO - Setting up the android device
+2018-05-21 17:48:46,922 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-23 16:20:57,057 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-23 16:20:57,082 - Pre-Condition -INFO - Setting up the android platform
+2018-05-23 16:20:57,083 - Pre-Condition -INFO - Setting up the android device
+2018-05-23 16:20:57,084 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-23 16:20:58,431 - Pre-Condition -INFO - Unable to create the android session. Message:org.apache.http.conn.HttpHostConnectException: Connect to 127.0.0.1:4723 [/127.0.0.1] failed: Connection refused (Connection refused)
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'GW-DK-031.local', ip: '192.168.1.184', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: driver.version: AndroidDriver
+2018-05-23 17:23:31,459 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-23 17:23:31,504 - Pre-Condition -INFO - Setting up the android platform
+2018-05-23 17:23:31,505 - Pre-Condition -INFO - Setting up the android device
+2018-05-23 17:23:31,506 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-23 17:23:32,698 - Pre-Condition -INFO - Unable to create the android session. Message:org.apache.http.conn.HttpHostConnectException: Connect to 127.0.0.1:4723 [/127.0.0.1] failed: Connection refused (Connection refused)
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'GW-DK-031.local', ip: '192.168.1.184', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: driver.version: AndroidDriver
+2018-05-24 10:45:00,898 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-24 10:45:00,952 - Pre-Condition -INFO - Setting up the android platform
+2018-05-24 10:45:00,952 - Pre-Condition -INFO - Setting up the android device
+2018-05-24 10:45:00,953 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-24 10:45:02,283 - Pre-Condition -INFO - Unable to create the android session. Message:org.apache.http.conn.HttpHostConnectException: Connect to 127.0.0.1:4723 [/127.0.0.1] failed: Connection refused (Connection refused)
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'GW-DK-031.local', ip: '192.168.1.184', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: driver.version: AndroidDriver
+2018-05-24 10:46:44,959 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-24 10:46:45,001 - Pre-Condition -INFO - Setting up the android platform
+2018-05-24 10:46:45,001 - Pre-Condition -INFO - Setting up the android device
+2018-05-24 10:46:45,002 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-24 10:51:24,175 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-24 10:51:24,552 - Pre-Condition -INFO - Setting up the android platform
+2018-05-24 10:51:24,553 - Pre-Condition -INFO - Setting up the android device
+2018-05-24 10:51:24,554 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-24 10:54:37,891 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-24 10:54:37,936 - Pre-Condition -INFO - Setting up the android platform
+2018-05-24 10:54:37,937 - Pre-Condition -INFO - Setting up the android device
+2018-05-24 10:54:37,937 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-24 10:55:42,580 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-24 10:55:42,592 - Pre-Condition -INFO - Setting up the android platform
+2018-05-24 10:55:42,593 - Pre-Condition -INFO - Setting up the android device
+2018-05-24 10:55:42,593 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-24 10:56:52,350 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-24 10:56:52,363 - Pre-Condition -INFO - Setting up the android platform
+2018-05-24 10:56:52,364 - Pre-Condition -INFO - Setting up the android device
+2018-05-24 10:56:52,364 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-24 10:57:40,425 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-24 10:57:40,441 - Pre-Condition -INFO - Setting up the android platform
+2018-05-24 10:57:40,442 - Pre-Condition -INFO - Setting up the android device
+2018-05-24 10:57:40,443 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-24 10:58:30,402 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-24 10:58:30,414 - Pre-Condition -INFO - Setting up the android platform
+2018-05-24 10:58:30,415 - Pre-Condition -INFO - Setting up the android device
+2018-05-24 10:58:30,416 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-24 11:12:04,930 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-24 11:12:04,985 - Pre-Condition -INFO - Setting up the android platform
+2018-05-24 11:12:04,986 - Pre-Condition -INFO - Setting up the android device
+2018-05-24 11:12:04,987 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-24 11:41:23,620 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-24 11:41:23,686 - Pre-Condition -INFO - Setting up the android platform
+2018-05-24 11:41:23,687 - Pre-Condition -INFO - Setting up the android device
+2018-05-24 11:41:23,687 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-24 11:43:00,315 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-24 11:43:00,326 - Pre-Condition -INFO - Setting up the android platform
+2018-05-24 11:43:00,327 - Pre-Condition -INFO - Setting up the android device
+2018-05-24 11:43:00,327 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-24 11:45:29,803 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-24 11:45:29,845 - Pre-Condition -INFO - Setting up the android platform
+2018-05-24 11:45:29,846 - Pre-Condition -INFO - Setting up the android device
+2018-05-24 11:45:29,847 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-24 11:46:37,849 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-24 11:46:37,858 - Pre-Condition -INFO - Setting up the android platform
+2018-05-24 11:46:37,859 - Pre-Condition -INFO - Setting up the android device
+2018-05-24 11:46:37,860 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-24 11:48:17,476 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-24 11:48:17,534 - Pre-Condition -INFO - Setting up the android platform
+2018-05-24 11:48:17,535 - Pre-Condition -INFO - Setting up the android device
+2018-05-24 11:48:17,535 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-24 11:55:35,210 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-24 11:55:35,256 - Pre-Condition -INFO - Setting up the android platform
+2018-05-24 11:55:35,256 - Pre-Condition -INFO - Setting up the android device
+2018-05-24 11:55:35,257 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-24 12:01:02,227 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-24 12:01:02,276 - Pre-Condition -INFO - Setting up the android platform
+2018-05-24 12:01:02,277 - Pre-Condition -INFO - Setting up the android device
+2018-05-24 12:01:02,278 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-24 12:24:50,825 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-24 12:24:50,875 - Pre-Condition -INFO - Setting up the android platform
+2018-05-24 12:24:50,876 - Pre-Condition -INFO - Setting up the android device
+2018-05-24 12:24:50,876 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-24 12:35:41,271 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-24 12:35:41,318 - Pre-Condition -INFO - Setting up the android platform
+2018-05-24 12:35:41,318 - Pre-Condition -INFO - Setting up the android device
+2018-05-24 12:35:41,318 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-24 12:44:29,214 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-24 12:44:29,260 - Pre-Condition -INFO - Setting up the android platform
+2018-05-24 12:44:29,261 - Pre-Condition -INFO - Setting up the android device
+2018-05-24 12:44:29,261 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-24 12:45:17,276 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-24 12:45:17,323 - Pre-Condition -INFO - Setting up the android platform
+2018-05-24 12:45:17,324 - Pre-Condition -INFO - Setting up the android device
+2018-05-24 12:45:17,324 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-24 12:50:16,120 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-24 12:50:16,174 - Pre-Condition -INFO - Setting up the android platform
+2018-05-24 12:50:16,178 - Pre-Condition -INFO - Setting up the android device
+2018-05-24 12:50:16,178 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-24 12:50:36,578 - CreateUserTest -INFO - Retrieving the information of test data required for the test engine to run.
+2018-05-24 13:02:01,476 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-24 13:02:01,524 - Pre-Condition -INFO - Setting up the android platform
+2018-05-24 13:02:01,525 - Pre-Condition -INFO - Setting up the android device
+2018-05-24 13:02:01,526 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-24 13:02:26,320 - CreateUserTest -INFO - Retrieving the information of test data required for the test engine to run.
+2018-05-24 13:04:34,621 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-24 13:04:34,657 - Pre-Condition -INFO - Setting up the android platform
+2018-05-24 13:04:34,658 - Pre-Condition -INFO - Setting up the android device
+2018-05-24 13:04:34,659 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-24 13:04:58,153 - CreateUserTest -INFO - Retrieving the information of test data required for the test engine to run.
+2018-05-24 13:07:21,646 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-24 13:07:21,711 - Pre-Condition -INFO - Setting up the android platform
+2018-05-24 13:07:21,713 - Pre-Condition -INFO - Setting up the android device
+2018-05-24 13:07:21,714 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-24 13:07:45,022 - CreateUserTest -INFO - Retrieving the information of test data required for the test engine to run.
+2018-05-24 13:10:56,966 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-24 13:10:57,014 - Pre-Condition -INFO - Setting up the android platform
+2018-05-24 13:10:57,015 - Pre-Condition -INFO - Setting up the android device
+2018-05-24 13:10:57,016 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-24 13:11:20,825 - CreateUserTest -INFO - Retrieving the information of test data required for the test engine to run.
+2018-05-24 13:12:06,098 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-24 13:12:06,138 - Pre-Condition -INFO - Setting up the android platform
+2018-05-24 13:12:06,139 - Pre-Condition -INFO - Setting up the android device
+2018-05-24 13:12:06,140 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-24 13:12:32,255 - CreateUserTest -INFO - Retrieving the information of test data required for the test engine to run.
+2018-05-24 13:13:25,328 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-24 13:13:25,339 - Pre-Condition -INFO - Setting up the android platform
+2018-05-24 13:13:25,339 - Pre-Condition -INFO - Setting up the android device
+2018-05-24 13:13:25,340 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-24 13:13:50,119 - CreateUserTest -INFO - Retrieving the information of test data required for the test engine to run.
+2018-05-24 15:40:22,743 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-24 15:40:23,012 - Pre-Condition -INFO - Setting up the android platform
+2018-05-24 15:40:23,012 - Pre-Condition -INFO - Setting up the android device
+2018-05-24 15:40:23,013 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-24 15:42:36,839 - CreateUserTest -INFO - Retrieving the information of test data required for the test engine to run.
+2018-05-24 15:42:38,886 - CreateUserTest -INFO - Creating a loop for looping through the driver engine steps provided.
+2018-05-24 15:55:07,014 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-24 15:55:07,059 - Pre-Condition -INFO - Setting up the android platform
+2018-05-24 15:55:07,060 - Pre-Condition -INFO - Setting up the android device
+2018-05-24 15:55:07,061 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-24 15:57:38,567 - CreateUserTest -INFO - Retrieving the information of test data required for the test engine to run.
+2018-05-24 15:57:40,877 - CreateUserTest -INFO - Creating a loop for looping through the driver engine steps provided.
+2018-05-24 16:06:54,561 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-24 16:06:54,595 - Pre-Condition -INFO - Setting up the android platform
+2018-05-24 16:06:54,596 - Pre-Condition -INFO - Setting up the android device
+2018-05-24 16:06:54,596 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-24 16:07:17,510 - CreateUserTest -INFO - Retrieving the information of test data required for the test engine to run.
+2018-05-24 16:07:19,408 - CreateUserTest -INFO - Creating a loop for looping through the driver engine steps provided.
+2018-05-24 16:10:58,697 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-24 16:10:58,739 - Pre-Condition -INFO - Setting up the android platform
+2018-05-24 16:10:58,740 - Pre-Condition -INFO - Setting up the android device
+2018-05-24 16:10:58,740 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-24 16:11:19,600 - CreateUserTest -INFO - Retrieving the information of test data required for the test engine to run.
+2018-05-24 16:11:20,880 - CreateUserTest -INFO - Creating a loop for looping through the driver engine steps provided.
+2018-05-24 16:12:58,591 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-24 16:12:58,601 - Pre-Condition -INFO - Setting up the android platform
+2018-05-24 16:12:58,602 - Pre-Condition -INFO - Setting up the android device
+2018-05-24 16:12:58,603 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-24 16:13:19,499 - CreateUserTest -INFO - Retrieving the information of test data required for the test engine to run.
+2018-05-24 16:13:20,940 - CreateUserTest -INFO - Creating a loop for looping through the driver engine steps provided.
+2018-05-24 16:14:42,883 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-24 16:14:42,895 - Pre-Condition -INFO - Setting up the android platform
+2018-05-24 16:14:42,895 - Pre-Condition -INFO - Setting up the android device
+2018-05-24 16:14:42,896 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-24 16:15:03,211 - CreateUserTest -INFO - Retrieving the information of test data required for the test engine to run.
+2018-05-24 16:15:04,689 - CreateUserTest -INFO - Creating a loop for looping through the driver engine steps provided.
+2018-05-24 16:15:08,954 - Post-Condition -INFO - Close the mobile session
+2018-05-24 16:15:58,502 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-24 16:15:58,514 - Pre-Condition -INFO - Setting up the android platform
+2018-05-24 16:15:58,515 - Pre-Condition -INFO - Setting up the android device
+2018-05-24 16:15:58,516 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-24 16:16:19,100 - CreateUserTest -INFO - Retrieving the information of test data required for the test engine to run.
+2018-05-24 16:16:20,632 - CreateUserTest -INFO - Creating a loop for looping through the driver engine steps provided.
+2018-05-24 16:16:25,631 - Post-Condition -INFO - Close the mobile session
+2018-05-24 16:17:31,879 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-24 16:17:31,890 - Pre-Condition -INFO - Setting up the android platform
+2018-05-24 16:17:31,892 - Pre-Condition -INFO - Setting up the android device
+2018-05-24 16:17:31,893 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-24 16:17:53,198 - CreateUserTest -INFO - Retrieving the information of test data required for the test engine to run.
+2018-05-24 16:17:54,726 - CreateUserTest -INFO - Creating a loop for looping through the driver engine steps provided.
+2018-05-24 16:33:10,062 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-24 16:33:10,073 - Pre-Condition -INFO - Setting up the android platform
+2018-05-24 16:33:10,074 - Pre-Condition -INFO - Setting up the android device
+2018-05-24 16:33:10,075 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-24 16:36:27,211 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-24 16:36:27,222 - Pre-Condition -INFO - Setting up the android platform
+2018-05-24 16:36:27,222 - Pre-Condition -INFO - Setting up the android device
+2018-05-24 16:36:27,223 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-24 16:36:51,994 - CreateUserTest -INFO - Retrieving the information of test data required for the test engine to run.
+2018-05-24 16:36:53,687 - CreateUserTest -INFO - Creating a loop for looping through the driver engine steps provided.
+2018-05-24 16:40:29,582 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-24 16:40:29,635 - Pre-Condition -INFO - Setting up the android platform
+2018-05-24 16:40:29,636 - Pre-Condition -INFO - Setting up the android device
+2018-05-24 16:40:29,637 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-24 16:40:52,524 - CreateUserTest -INFO - Retrieving the information of test data required for the test engine to run.
+2018-05-24 16:40:54,173 - CreateUserTest -INFO - Creating a loop for looping through the driver engine steps provided.
+2018-05-24 16:45:24,264 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-24 16:45:24,328 - Pre-Condition -INFO - Setting up the android platform
+2018-05-24 16:45:24,328 - Pre-Condition -INFO - Setting up the android device
+2018-05-24 16:45:24,329 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-24 16:45:47,102 - CreateUserTest -INFO - Retrieving the information of test data required for the test engine to run.
+2018-05-24 16:45:48,563 - CreateUserTest -INFO - Creating a loop for looping through the driver engine steps provided.
+2018-05-24 16:50:39,175 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-24 16:50:39,230 - Pre-Condition -INFO - Setting up the android platform
+2018-05-24 16:50:39,231 - Pre-Condition -INFO - Setting up the android device
+2018-05-24 16:50:39,232 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-24 16:51:01,663 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-24 16:51:01,674 - Pre-Condition -INFO - Setting up the android platform
+2018-05-24 16:51:01,674 - Pre-Condition -INFO - Setting up the android device
+2018-05-24 16:51:01,675 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-24 16:51:45,579 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-24 16:51:45,589 - Pre-Condition -INFO - Setting up the android platform
+2018-05-24 16:51:45,589 - Pre-Condition -INFO - Setting up the android device
+2018-05-24 16:51:45,590 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-24 16:52:19,965 - CreateUserTest -INFO - Retrieving the information of test data required for the test engine to run.
+2018-05-24 16:52:21,624 - CreateUserTest -INFO - Creating a loop for looping through the driver engine steps provided.
+2018-05-24 16:53:04,013 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-24 16:53:04,026 - Pre-Condition -INFO - Setting up the android platform
+2018-05-24 16:53:04,027 - Pre-Condition -INFO - Setting up the android device
+2018-05-24 16:53:04,028 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-24 16:53:35,142 - CreateUserTest -INFO - Retrieving the information of test data required for the test engine to run.
+2018-05-24 16:53:36,624 - CreateUserTest -INFO - Creating a loop for looping through the driver engine steps provided.
+2018-05-25 14:14:09,388 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-25 14:14:09,478 - Pre-Condition -INFO - Setting up the android platform
+2018-05-25 14:14:09,478 - Pre-Condition -INFO - Setting up the android device
+2018-05-25 14:14:09,479 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-25 14:14:48,304 - CreateUserTest -INFO - Retrieving the information of test data required for the test engine to run.
+2018-05-25 14:14:50,536 - CreateUserTest -INFO - Creating a loop for looping through the driver engine steps provided.
+2018-05-25 14:15:56,680 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-25 14:15:56,735 - Pre-Condition -INFO - Setting up the android platform
+2018-05-25 14:15:56,736 - Pre-Condition -INFO - Setting up the android device
+2018-05-25 14:15:56,736 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-25 14:16:28,041 - CreateUserTest -INFO - Retrieving the information of test data required for the test engine to run.
+2018-05-25 14:16:30,013 - CreateUserTest -INFO - Creating a loop for looping through the driver engine steps provided.
+2018-05-25 14:16:46,281 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-25 14:16:46,295 - Pre-Condition -INFO - Setting up the android platform
+2018-05-25 14:16:46,296 - Pre-Condition -INFO - Setting up the android device
+2018-05-25 14:16:46,297 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-25 14:17:17,472 - CreateUserTest -INFO - Retrieving the information of test data required for the test engine to run.
+2018-05-25 14:17:19,487 - CreateUserTest -INFO - Creating a loop for looping through the driver engine steps provided.
+2018-05-25 14:18:31,175 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-25 14:18:31,206 - Pre-Condition -INFO - Setting up the android platform
+2018-05-25 14:18:31,207 - Pre-Condition -INFO - Setting up the android device
+2018-05-25 14:18:31,207 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-25 14:19:01,334 - CreateUserTest -INFO - Retrieving the information of test data required for the test engine to run.
+2018-05-25 14:19:03,371 - CreateUserTest -INFO - Creating a loop for looping through the driver engine steps provided.
+2018-05-25 14:19:03,459 - CreateUserTest -INFO - Try to click on the create user icon
+2018-05-25 14:24:40,869 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-25 14:24:40,935 - Pre-Condition -INFO - Setting up the android platform
+2018-05-25 14:24:40,936 - Pre-Condition -INFO - Setting up the android device
+2018-05-25 14:24:40,937 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-25 14:25:11,914 - CreateUserTest -INFO - Retrieving the information of test data required for the test engine to run.
+2018-05-25 14:25:13,876 - CreateUserTest -INFO - Creating a loop for looping through the driver engine steps provided.
+2018-05-25 14:25:13,960 - CreateUserTest -INFO - Try to click on the create user icon
+2018-05-25 14:50:47,918 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-25 14:50:47,987 - Pre-Condition -INFO - Setting up the android platform
+2018-05-25 14:50:47,988 - Pre-Condition -INFO - Setting up the android device
+2018-05-25 14:50:47,990 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-25 14:51:20,918 - CreateUserTest -INFO - Retrieving the information of test data required for the test engine to run.
+2018-05-25 14:51:22,713 - CreateUserTest -INFO - Creating a loop for looping through the driver engine steps provided.
+2018-05-25 14:51:22,779 - CreateUserTest -INFO - Try to click on the create user icon
+2018-05-25 14:53:52,418 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-25 14:53:52,482 - Pre-Condition -INFO - Setting up the android platform
+2018-05-25 14:53:52,483 - Pre-Condition -INFO - Setting up the android device
+2018-05-25 14:53:52,484 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-25 14:54:24,263 - CreateUserTest -INFO - Retrieving the information of test data required for the test engine to run.
+2018-05-25 14:54:26,132 - CreateUserTest -INFO - Creating a loop for looping through the driver engine steps provided.
+2018-05-25 14:54:26,197 - CreateUserTest -INFO - Try to click on the create user icon
+2018-05-25 15:02:48,039 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-25 15:02:48,051 - Pre-Condition -INFO - Setting up the android platform
+2018-05-25 15:02:48,052 - Pre-Condition -INFO - Setting up the android device
+2018-05-25 15:02:48,053 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-25 15:04:31,701 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-25 15:04:31,710 - Pre-Condition -INFO - Setting up the android platform
+2018-05-25 15:04:31,711 - Pre-Condition -INFO - Setting up the android device
+2018-05-25 15:04:31,711 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-25 15:05:02,079 - CreateUserTest -INFO - Retrieving the information of test data required for the test engine to run.
+2018-05-25 15:05:04,371 - CreateUserTest -INFO - Creating a loop for looping through the driver engine steps provided.
+2018-05-25 15:05:04,476 - CreateUserTest -INFO - Try to click on the create user icon
+2018-05-25 15:07:51,188 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-25 15:07:51,198 - Pre-Condition -INFO - Setting up the android platform
+2018-05-25 15:07:51,199 - Pre-Condition -INFO - Setting up the android device
+2018-05-25 15:07:51,199 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-25 15:08:22,086 - CreateUserTest -INFO - Retrieving the information of test data required for the test engine to run.
+2018-05-25 15:08:24,232 - CreateUserTest -INFO - Creating a loop for looping through the driver engine steps provided.
+2018-05-25 15:08:24,322 - CreateUserTest -INFO - Try to click on the create user icon
+2018-05-25 15:13:30,893 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-25 15:13:30,941 - Pre-Condition -INFO - Setting up the android platform
+2018-05-25 15:13:30,942 - Pre-Condition -INFO - Setting up the android device
+2018-05-25 15:13:30,943 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-25 15:13:30,943 - Pre-Condition -INFO - Setting up the noReset to true
+2018-05-25 15:13:59,440 - CreateUserTest -INFO - Retrieving the information of test data required for the test engine to run.
+2018-05-25 15:14:01,690 - CreateUserTest -INFO - Creating a loop for looping through the driver engine steps provided.
+2018-05-25 15:14:01,835 - CreateUserTest -INFO - Try to click on the create user icon
+2018-05-25 15:17:06,913 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-25 15:17:06,923 - Pre-Condition -INFO - Setting up the android platform
+2018-05-25 15:17:06,924 - Pre-Condition -INFO - Setting up the android device
+2018-05-25 15:17:06,924 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-25 15:17:06,925 - Pre-Condition -INFO - Setting up the noReset to true
+2018-05-25 15:17:37,212 - CreateUserTest -INFO - Retrieving the information of test data required for the test engine to run.
+2018-05-25 15:17:39,341 - CreateUserTest -INFO - Creating a loop for looping through the driver engine steps provided.
+2018-05-25 15:17:39,436 - CreateUserTest -INFO - Try to click on the create user icon
+2018-05-25 15:22:45,505 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-25 15:22:45,555 - Pre-Condition -INFO - Setting up the android platform
+2018-05-25 15:22:45,555 - Pre-Condition -INFO - Setting up the android device
+2018-05-25 15:22:45,556 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-25 15:22:45,556 - Pre-Condition -INFO - Setting up the noReset to true
+2018-05-25 15:23:13,740 - CreateUserTest -INFO - Retrieving the information of test data required for the test engine to run.
+2018-05-25 15:23:16,247 - CreateUserTest -INFO - Creating a loop for looping through the driver engine steps provided.
+2018-05-25 15:23:16,375 - CreateUserTest -INFO - Try to click on the create user icon
+2018-05-25 15:26:06,241 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-25 15:26:06,253 - Pre-Condition -INFO - Setting up the android platform
+2018-05-25 15:26:06,254 - Pre-Condition -INFO - Setting up the android device
+2018-05-25 15:26:06,254 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-25 15:26:06,255 - Pre-Condition -INFO - Setting up the noReset to true
+2018-05-25 15:26:33,916 - CreateUserTest -INFO - Retrieving the information of test data required for the test engine to run.
+2018-05-25 15:26:36,150 - CreateUserTest -INFO - Creating a loop for looping through the driver engine steps provided.
+2018-05-25 15:26:36,266 - CreateUserTest -INFO - Try to click on the create user icon
+2018-05-25 15:28:33,962 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-25 15:28:33,972 - Pre-Condition -INFO - Setting up the android platform
+2018-05-25 15:28:33,972 - Pre-Condition -INFO - Setting up the android device
+2018-05-25 15:28:33,973 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-25 15:28:33,974 - Pre-Condition -INFO - Setting up the noReset to true
+2018-05-25 15:29:02,178 - CreateUserTest -INFO - Retrieving the information of test data required for the test engine to run.
+2018-05-25 15:29:04,379 - CreateUserTest -INFO - Creating a loop for looping through the driver engine steps provided.
+2018-05-25 15:29:04,457 - CreateUserTest -INFO - Try to click on the create user icon
+2018-05-25 15:30:35,907 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-25 15:30:35,918 - Pre-Condition -INFO - Setting up the android platform
+2018-05-25 15:30:35,919 - Pre-Condition -INFO - Setting up the android device
+2018-05-25 15:30:35,919 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-25 15:30:35,920 - Pre-Condition -INFO - Setting up the noReset to true
+2018-05-25 15:31:04,342 - CreateUserTest -INFO - Retrieving the information of test data required for the test engine to run.
+2018-05-25 15:31:06,524 - CreateUserTest -INFO - Creating a loop for looping through the driver engine steps provided.
+2018-05-25 15:31:06,606 - CreateUserTest -INFO - Try to click on the create user icon
+2018-05-25 15:32:46,537 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-25 15:32:46,548 - Pre-Condition -INFO - Setting up the android platform
+2018-05-25 15:32:46,548 - Pre-Condition -INFO - Setting up the android device
+2018-05-25 15:32:46,549 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-25 15:32:46,549 - Pre-Condition -INFO - Setting up the noReset to true
+2018-05-25 15:33:14,143 - CreateUserTest -INFO - Retrieving the information of test data required for the test engine to run.
+2018-05-25 15:33:16,325 - CreateUserTest -INFO - Creating a loop for looping through the driver engine steps provided.
+2018-05-25 15:33:16,433 - CreateUserTest -INFO - Try to click on the create user icon
+2018-05-25 15:34:30,305 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-25 15:34:30,316 - Pre-Condition -INFO - Setting up the android platform
+2018-05-25 15:34:30,317 - Pre-Condition -INFO - Setting up the android device
+2018-05-25 15:34:30,318 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-25 15:34:30,318 - Pre-Condition -INFO - Setting up the noReset to true
+2018-05-25 15:34:57,471 - CreateUserTest -INFO - Retrieving the information of test data required for the test engine to run.
+2018-05-25 15:34:59,175 - CreateUserTest -INFO - Creating a loop for looping through the driver engine steps provided.
+2018-05-25 15:34:59,256 - CreateUserTest -INFO - Try to click on the create user icon
+2018-05-25 15:36:05,435 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-25 15:36:05,446 - Pre-Condition -INFO - Setting up the android platform
+2018-05-25 15:36:05,447 - Pre-Condition -INFO - Setting up the android device
+2018-05-25 15:36:05,447 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-25 15:36:05,448 - Pre-Condition -INFO - Setting up the noReset to true
+2018-05-25 15:36:33,759 - CreateUserTest -INFO - Retrieving the information of test data required for the test engine to run.
+2018-05-25 15:36:35,770 - CreateUserTest -INFO - Creating a loop for looping through the driver engine steps provided.
+2018-05-25 15:36:35,859 - CreateUserTest -INFO - Try to click on the create user icon
+2018-05-25 15:37:30,759 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-25 15:37:30,770 - Pre-Condition -INFO - Setting up the android platform
+2018-05-25 15:37:30,771 - Pre-Condition -INFO - Setting up the android device
+2018-05-25 15:37:30,771 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-25 15:37:30,771 - Pre-Condition -INFO - Setting up the noReset to true
+2018-05-25 15:37:59,457 - CreateUserTest -INFO - Retrieving the information of test data required for the test engine to run.
+2018-05-25 15:38:01,208 - CreateUserTest -INFO - Creating a loop for looping through the driver engine steps provided.
+2018-05-25 15:38:01,310 - CreateUserTest -INFO - Try to click on the create user icon
+2018-05-25 15:45:52,490 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-25 15:45:52,531 - Pre-Condition -INFO - Setting up the android platform
+2018-05-25 15:45:52,531 - Pre-Condition -INFO - Setting up the android device
+2018-05-25 15:45:52,532 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-25 15:45:52,532 - Pre-Condition -INFO - Setting up the noReset to true
+2018-05-25 15:46:20,682 - CreateUserTest -INFO - Retrieving the information of test data required for the test engine to run.
+2018-05-25 15:46:22,906 - CreateUserTest -INFO - Creating a loop for looping through the driver engine steps provided.
+2018-05-25 15:46:22,989 - CreateUserTest -INFO - Try to click on the create user icon
+2018-05-25 15:52:37,307 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-25 15:52:37,362 - Pre-Condition -INFO - Setting up the android platform
+2018-05-25 15:52:37,362 - Pre-Condition -INFO - Setting up the android device
+2018-05-25 15:52:37,363 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-25 15:52:37,363 - Pre-Condition -INFO - Setting up the noReset to true
+2018-05-25 15:53:06,905 - CreateUserTest -INFO - Retrieving the information of test data required for the test engine to run.
+2018-05-25 15:53:08,877 - CreateUserTest -INFO - Creating a loop for looping through the driver engine steps provided.
+2018-05-25 15:53:08,981 - CreateUserTest -INFO - Try to click on the create user icon
+2018-05-25 16:03:45,622 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-25 16:03:45,694 - Pre-Condition -INFO - Setting up the android platform
+2018-05-25 16:03:45,695 - Pre-Condition -INFO - Setting up the android device
+2018-05-25 16:03:45,695 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-25 16:03:45,696 - Pre-Condition -INFO - Setting up the noReset to true
+2018-05-25 16:04:13,769 - CreateUserTest -INFO - Retrieving the information of test data required for the test engine to run.
+2018-05-25 16:04:16,635 - CreateUserTest -INFO - Creating a loop for looping through the driver engine steps provided.
+2018-05-25 16:04:16,762 - CreateUserTest -INFO - Try to click on the create user icon
+2018-05-25 16:14:29,936 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-25 16:14:30,011 - Pre-Condition -INFO - Setting up the android platform
+2018-05-25 16:14:30,012 - Pre-Condition -INFO - Setting up the android device
+2018-05-25 16:14:30,013 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-25 16:14:30,013 - Pre-Condition -INFO - Setting up the noReset to true
+2018-05-25 16:19:26,790 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-25 16:19:26,803 - Pre-Condition -INFO - Setting up the android platform
+2018-05-25 16:19:26,803 - Pre-Condition -INFO - Setting up the android device
+2018-05-25 16:19:26,804 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-25 16:19:26,804 - Pre-Condition -INFO - Setting up the noReset to true
+2018-05-25 16:29:26,522 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-25 16:29:26,586 - Pre-Condition -INFO - Setting up the android platform
+2018-05-25 16:29:26,587 - Pre-Condition -INFO - Setting up the android device
+2018-05-25 16:29:26,587 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-25 16:29:26,588 - Pre-Condition -INFO - Setting up the noReset to true
+2018-05-25 17:15:44,799 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-25 17:15:45,104 - Pre-Condition -INFO - Setting up the android platform
+2018-05-25 17:15:45,105 - Pre-Condition -INFO - Setting up the android device
+2018-05-25 17:15:45,106 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-25 17:15:45,106 - Pre-Condition -INFO - Setting up the noReset to true
+2018-05-25 17:30:40,183 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-25 17:30:40,414 - Pre-Condition -INFO - Setting up the android platform
+2018-05-25 17:30:40,429 - Pre-Condition -INFO - Setting up the android device
+2018-05-25 17:30:40,440 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-25 17:30:40,450 - Pre-Condition -INFO - Setting up the noReset to true
+2018-05-25 17:33:08,206 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-25 17:33:08,219 - Pre-Condition -INFO - Setting up the android platform
+2018-05-25 17:33:08,219 - Pre-Condition -INFO - Setting up the android device
+2018-05-25 17:33:08,220 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-25 17:33:08,221 - Pre-Condition -INFO - Setting up the noReset to true
+2018-05-25 17:33:13,715 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-25 17:33:13,742 - Pre-Condition -INFO - Setting up the android platform
+2018-05-25 17:33:13,743 - Pre-Condition -INFO - Setting up the android device
+2018-05-25 17:33:13,743 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-25 17:33:13,744 - Pre-Condition -INFO - Setting up the noReset to true
+2018-05-25 17:34:16,812 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-25 17:34:16,885 - Pre-Condition -INFO - Setting up the android platform
+2018-05-25 17:34:16,886 - Pre-Condition -INFO - Setting up the android device
+2018-05-25 17:34:16,887 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-25 17:34:16,887 - Pre-Condition -INFO - Setting up the noReset to true
+2018-05-25 17:34:18,695 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-25 17:34:18,707 - Pre-Condition -INFO - Setting up the android platform
+2018-05-25 17:34:18,708 - Pre-Condition -INFO - Setting up the android device
+2018-05-25 17:34:18,709 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-25 17:34:18,710 - Pre-Condition -INFO - Setting up the noReset to true
+2018-05-25 17:42:08,176 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-25 17:42:08,231 - Pre-Condition -INFO - Setting up the android platform
+2018-05-25 17:42:08,232 - Pre-Condition -INFO - Setting up the android device
+2018-05-25 17:42:08,232 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-25 17:42:08,233 - Pre-Condition -INFO - Setting up the noReset to true
+2018-05-25 17:43:50,296 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-25 17:43:50,307 - Pre-Condition -INFO - Setting up the android platform
+2018-05-25 17:43:50,308 - Pre-Condition -INFO - Setting up the android device
+2018-05-25 17:43:50,308 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-25 17:43:50,309 - Pre-Condition -INFO - Setting up the noReset to true
+2018-05-25 17:48:35,125 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-25 17:48:35,199 - Pre-Condition -INFO - Setting up the android platform
+2018-05-25 17:48:35,201 - Pre-Condition -INFO - Setting up the android device
+2018-05-25 17:48:35,201 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-25 17:48:35,202 - Pre-Condition -INFO - Setting up the noReset to true
+2018-05-25 17:49:11,227 - Pre-Condition -INFO - Setting up the android configuration
+2018-05-25 17:49:11,274 - Pre-Condition -INFO - Setting up the android platform
+2018-05-25 17:49:11,275 - Pre-Condition -INFO - Setting up the android device
+2018-05-25 17:49:11,275 - Pre-Condition -INFO - Setting up the android application to be tested
+2018-05-25 17:49:11,275 - Pre-Condition -INFO - Setting up the noReset to true

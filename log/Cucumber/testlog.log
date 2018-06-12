@@ -1,0 +1,369 @@
+2018-05-15 14:44:48,231 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the URL
+2018-05-15 14:44:53,913 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the username
+2018-05-15 14:44:54,145 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the password
+2018-05-15 14:44:54,287 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Click on Login button
+2018-05-15 14:44:54,643 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - If login button is not visible trying the catch block for the exception
+2018-05-15 14:45:01,359 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Retrieve the home page title
+2018-05-15 14:45:01,371 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Check the retrieved title of the home page matches our expected home page title
+2018-05-15 14:45:01,447 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Hover the mouse to the contacts button on the top bar
+2018-05-15 14:45:01,544 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Once the sub menu opens trying to clock on the new contact option to create a new contact
+2018-05-15 14:45:01,686 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Once in the new contact page, user tries to click on the title drop down menu
+2018-05-15 14:45:02,964 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the first name using list
+2018-05-15 14:45:03,142 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the last name using list
+2018-05-15 14:45:03,274 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Click on save button
+2018-05-15 14:45:41,744 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the URL
+2018-05-15 14:45:46,902 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the username
+2018-05-15 14:45:47,109 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the password
+2018-05-15 14:45:47,236 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Click on Login button
+2018-05-15 14:45:47,332 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - If login button is not visible trying the catch block for the exception
+2018-05-15 14:45:53,707 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Retrieve the home page title
+2018-05-15 14:45:53,718 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Check the retrieved title of the home page matches our expected home page title
+2018-05-15 14:45:53,791 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Hover the mouse to the contacts button on the top bar
+2018-05-15 14:45:53,901 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Once the sub menu opens trying to clock on the new contact option to create a new contact
+2018-05-15 14:45:54,039 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Once in the new contact page, user tries to click on the title drop down menu
+2018-05-15 14:45:55,208 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the first name using list
+2018-05-15 14:45:55,373 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the last name using list
+2018-05-15 14:45:55,507 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Click on save button
+2018-05-15 14:46:03,634 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Once the contact is saved, user tries to click on the contacts button once again to view the saved details
+2018-05-15 14:46:08,754 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Storing all the contact information into a list
+2018-05-15 14:46:08,780 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Getting the size of the list table contents
+2018-05-15 14:46:08,782 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Check if the contact person created is available in the contacts table.
+2018-05-15 14:46:39,779 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the URL
+2018-05-15 14:46:44,873 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the username
+2018-05-15 14:46:45,205 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the password
+2018-05-15 14:46:45,341 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Click on Login button
+2018-05-15 14:46:45,449 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - If login button is not visible trying the catch block for the exception
+2018-05-15 14:46:51,784 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Retrieve the home page title
+2018-05-15 14:46:51,793 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Check the retrieved title of the home page matches our expected home page title
+2018-05-15 14:46:51,852 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Hover the mouse to the contacts button on the top bar
+2018-05-15 14:46:51,959 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Once the sub menu opens trying to clock on the new contact option to create a new contact
+2018-05-15 14:46:52,099 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Once in the new contact page, user tries to click on the title drop down menu
+2018-05-15 14:46:53,255 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the first name using list
+2018-05-15 14:46:53,435 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the last name using list
+2018-05-15 14:46:53,591 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Click on save button
+2018-05-15 14:47:01,724 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Once the contact is saved, user tries to click on the contacts button once again to view the saved details
+2018-05-15 14:47:06,830 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Storing all the contact information into a list
+2018-05-15 14:47:06,855 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Getting the size of the list table contents
+2018-05-15 14:47:06,856 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Check if the contact person created is available in the contacts table.
+2018-05-15 14:47:11,860 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Click on logout button
+2018-05-15 14:47:18,948 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - User retrieves the title of the login page
+2018-05-15 14:47:18,961 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - User checks if the title matches the original login title
+2018-05-15 14:50:13,663 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the URL
+2018-05-15 14:55:10,623 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the URL
+2018-05-15 14:55:16,019 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the username
+2018-05-15 14:55:16,320 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the password
+2018-05-15 14:55:16,437 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Click on Login button
+2018-05-15 14:55:16,729 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - If login button is not visible trying the catch block for the exception
+2018-05-15 14:55:23,292 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Retrieve the home page title
+2018-05-15 14:55:23,321 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Check the retrieved title of the home page matches our expected home page title
+2018-05-15 14:55:23,402 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Hover the mouse to the contacts button on the top bar
+2018-05-15 14:55:23,501 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Once the sub menu opens trying to clock on the new contact option to create a new contact
+2018-05-15 14:55:23,642 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Once in the new contact page, user tries to click on the title drop down menu
+2018-05-15 14:55:25,097 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the first name using list
+2018-05-15 14:55:25,306 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the last name using list
+2018-05-15 14:55:25,447 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Click on save button
+2018-05-15 14:55:33,563 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Once the contact is saved, user tries to click on the contacts button once again to view the saved details
+2018-05-15 14:55:38,676 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Storing all the contact information into a list
+2018-05-15 14:55:38,702 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Getting the size of the list table contents
+2018-05-15 14:55:38,704 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Check if the contact person created is available in the contacts table.
+2018-05-15 14:55:43,711 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Click on logout button
+2018-05-15 14:55:50,794 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - User retrieves the title of the login page
+2018-05-15 14:55:50,956 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - User checks if the title matches the original login title
+2018-05-15 14:56:03,898 - sendMail -INFO - Mail sent successfully
+2018-05-15 14:58:34,218 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the URL
+2018-05-15 14:58:40,018 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the username
+2018-05-15 14:58:40,433 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the password
+2018-05-15 14:58:40,567 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Click on Login button
+2018-05-15 14:58:40,867 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - If login button is not visible trying the catch block for the exception
+2018-05-15 14:58:46,795 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Retrieve the home page title
+2018-05-15 14:58:46,816 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Check the retrieved title of the home page matches our expected home page title
+2018-05-15 14:58:46,902 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Hover the mouse to the contacts button on the top bar
+2018-05-15 14:58:47,018 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Once the sub menu opens trying to clock on the new contact option to create a new contact
+2018-05-15 14:58:47,158 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Once in the new contact page, user tries to click on the title drop down menu
+2018-05-15 14:58:48,374 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the first name using list
+2018-05-15 14:58:48,550 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the last name using list
+2018-05-15 14:58:48,690 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Click on save button
+2018-05-15 14:58:56,826 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Once the contact is saved, user tries to click on the contacts button once again to view the saved details
+2018-05-15 14:59:01,937 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Storing all the contact information into a list
+2018-05-15 14:59:01,970 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Getting the size of the list table contents
+2018-05-15 14:59:01,972 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Check if the contact person created is available in the contacts table.
+2018-05-15 14:59:06,990 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Click on logout button
+2018-05-15 14:59:14,103 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - User retrieves the title of the login page
+2018-05-15 14:59:14,117 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - User checks if the title matches the original login title
+2018-05-15 14:59:25,795 - sendMail -INFO - Mail sent successfully
+2018-05-15 15:10:35,679 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the URL
+2018-05-15 15:10:41,220 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the username
+2018-05-15 15:10:41,482 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the password
+2018-05-15 15:10:41,640 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Click on Login button
+2018-05-15 15:10:42,066 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - If login button is not visible trying the catch block for the exception
+2018-05-15 15:10:48,811 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Retrieve the home page title
+2018-05-15 15:10:48,840 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Check the retrieved title of the home page matches our expected home page title
+2018-05-15 15:10:48,921 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Hover the mouse to the contacts button on the top bar
+2018-05-15 15:10:49,151 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Once the sub menu opens trying to clock on the new contact option to create a new contact
+2018-05-15 15:10:49,311 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Once in the new contact page, user tries to click on the title drop down menu
+2018-05-15 15:10:50,628 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the first name using list
+2018-05-15 15:10:50,822 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the last name using list
+2018-05-15 15:10:50,993 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Click on save button
+2018-05-15 15:10:59,115 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Once the contact is saved, user tries to click on the contacts button once again to view the saved details
+2018-05-15 15:11:04,225 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Storing all the contact information into a list
+2018-05-15 15:11:04,249 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Getting the size of the list table contents
+2018-05-15 15:11:04,251 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Check if the contact person created is available in the contacts table.
+2018-05-15 15:11:09,257 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Click on logout button
+2018-05-15 15:11:16,334 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - User retrieves the title of the login page
+2018-05-15 15:11:16,393 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - User checks if the title matches the original login title
+2018-05-15 15:11:27,616 - sendMail -INFO - Mail sent successfully
+2018-05-15 15:21:18,492 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the URL
+2018-05-15 15:21:29,132 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the username
+2018-05-15 15:21:29,413 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the password
+2018-05-15 15:21:29,530 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Click on Login button
+2018-05-15 15:21:29,888 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - If login button is not visible trying the catch block for the exception
+2018-05-15 15:21:39,787 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Retrieve the home page title
+2018-05-15 15:21:39,833 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Check the retrieved title of the home page matches our expected home page title
+2018-05-15 15:21:39,971 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Hover the mouse to the contacts button on the top bar
+2018-05-15 15:21:40,087 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Once the sub menu opens trying to clock on the new contact option to create a new contact
+2018-05-15 15:21:40,223 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Once in the new contact page, user tries to click on the title drop down menu
+2018-05-15 15:21:41,873 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the first name using list
+2018-05-15 15:21:42,059 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the last name using list
+2018-05-15 15:21:42,199 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Click on save button
+2018-05-15 15:21:50,344 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Once the contact is saved, user tries to click on the contacts button once again to view the saved details
+2018-05-15 15:21:55,445 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Storing all the contact information into a list
+2018-05-15 15:21:55,595 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Getting the size of the list table contents
+2018-05-15 15:21:55,597 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Check if the contact person created is available in the contacts table.
+2018-05-15 15:22:00,705 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Click on logout button
+2018-05-15 15:22:07,798 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - User retrieves the title of the login page
+2018-05-15 15:22:07,846 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - User checks if the title matches the original login title
+2018-05-15 15:22:21,252 - sendMail -INFO - Mail sent successfully
+2018-05-16 08:42:28,827 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the URL
+2018-05-16 08:42:34,443 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the username
+2018-05-16 08:42:34,677 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the password
+2018-05-16 08:42:34,804 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Click on Login button
+2018-05-16 08:42:34,923 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - If login button is not visible trying the catch block for the exception
+2018-05-16 08:42:41,954 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Retrieve the home page title
+2018-05-16 08:42:41,962 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Check the retrieved title of the home page matches our expected home page title
+2018-05-16 08:42:42,019 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Hover the mouse to the contacts button on the top bar
+2018-05-16 08:42:42,129 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Once the sub menu opens trying to clock on the new contact option to create a new contact
+2018-05-16 08:42:42,247 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Once in the new contact page, user tries to click on the title drop down menu
+2018-05-16 08:42:43,758 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the first name using list
+2018-05-16 08:42:43,951 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the last name using list
+2018-05-16 08:42:44,082 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Click on save button
+2018-05-16 08:42:52,200 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Once the contact is saved, user tries to click on the contacts button once again to view the saved details
+2018-05-16 08:42:57,325 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Storing all the contact information into a list
+2018-05-16 08:42:57,351 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Getting the size of the list table contents
+2018-05-16 08:42:57,353 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Check if the contact person created is available in the contacts table.
+2018-05-16 08:43:02,361 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Click on logout button
+2018-05-16 08:43:09,533 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - User retrieves the title of the login page
+2018-05-16 08:43:09,546 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - User checks if the title matches the original login title
+2018-05-16 08:43:22,954 - sendMail -INFO - Mail sent successfully
+2018-05-16 10:46:07,653 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the URL
+2018-05-16 10:46:20,607 - sendMail -INFO - Mail sent successfully
+2018-05-16 10:59:37,734 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the URL
+2018-05-16 10:59:48,573 - sendMail -INFO - Mail sent successfully
+2018-05-16 11:02:00,210 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the URL
+2018-05-16 11:02:10,811 - sendMail -INFO - Mail sent successfully
+2018-05-16 11:03:09,192 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the URL
+2018-05-16 11:03:21,880 - sendMail -INFO - Mail sent successfully
+2018-05-16 11:06:02,520 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the URL
+2018-05-16 11:06:14,884 - sendMail -INFO - Mail sent successfully
+2018-05-16 11:07:19,942 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the URL
+2018-05-16 11:07:34,569 - sendMail -INFO - Mail sent successfully
+2018-05-16 11:10:08,030 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the URL
+2018-05-16 11:10:20,545 - sendMail -INFO - Mail sent successfully
+2018-05-16 11:11:18,973 - sendMail -INFO - Mail sent successfully
+2018-05-16 11:11:38,531 - sendMail -INFO - Mail sent successfully
+2018-05-16 11:12:35,523 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the URL
+2018-05-16 11:12:41,769 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the username
+2018-05-16 11:12:42,096 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the password
+2018-05-16 11:12:42,227 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Click on Login button
+2018-05-16 11:12:42,471 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - If login button is not visible trying the catch block for the exception
+2018-05-16 11:12:50,869 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Retrieve the home page title
+2018-05-16 11:12:50,891 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Check the retrieved title of the home page matches our expected home page title
+2018-05-16 11:12:50,956 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Hover the mouse to the contacts button on the top bar
+2018-05-16 11:12:51,074 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Once the sub menu opens trying to clock on the new contact option to create a new contact
+2018-05-16 11:12:51,223 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Once in the new contact page, user tries to click on the title drop down menu
+2018-05-16 11:12:52,989 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the first name using list
+2018-05-16 11:12:53,239 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the last name using list
+2018-05-16 11:12:53,409 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Click on save button
+2018-05-16 11:21:19,765 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the URL
+2018-05-16 11:21:24,648 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the username
+2018-05-16 11:21:31,543 - sendMail -INFO - Mail sent successfully
+2018-05-16 11:23:38,155 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the URL
+2018-05-16 11:23:44,661 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the username
+2018-05-16 11:23:49,998 - sendMail -INFO - Mail sent successfully
+2018-05-16 11:24:47,693 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the URL
+2018-05-16 11:24:53,000 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the username
+2018-05-16 11:24:58,701 - sendMail -INFO - Mail sent successfully
+2018-05-16 11:29:42,477 - sendMail -INFO - Mail sent successfully
+2018-05-16 11:29:55,771 - sendMail -INFO - Mail sent successfully
+2018-05-16 11:30:31,617 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the URL
+2018-05-16 11:30:36,795 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the username
+2018-05-16 11:30:43,285 - sendMail -INFO - Mail sent successfully
+2018-05-16 11:38:55,585 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the URL
+2018-05-16 11:39:01,559 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the username
+2018-05-16 11:39:11,815 - sendMail -INFO - Mail sent successfully
+2018-05-16 11:48:09,224 - sendMail -INFO - Mail sent successfully
+2018-05-16 11:52:05,560 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the URL
+2018-05-16 11:52:10,632 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the username
+2018-05-16 11:52:10,916 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the password
+2018-05-16 11:52:11,060 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Click on Login button
+2018-05-16 11:52:11,483 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - If login button is not visible trying the catch block for the exception
+2018-05-16 11:53:19,697 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the URL
+2018-05-16 11:53:24,848 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the username
+2018-05-16 11:53:31,587 - sendMail -INFO - Mail sent successfully
+2018-05-16 12:06:53,141 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the URL
+2018-05-16 12:07:00,443 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the username
+2018-05-16 12:07:00,768 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the password
+2018-05-16 12:07:00,913 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Click on Login button
+2018-05-16 12:07:45,655 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the URL
+2018-05-16 12:07:55,761 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the username
+2018-05-16 12:08:13,475 - sendMail -INFO - Mail sent successfully
+2018-05-16 12:09:41,250 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the URL
+2018-05-16 12:10:01,180 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the username
+2018-05-16 12:10:01,658 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the password
+2018-05-16 12:10:01,781 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Click on Login button
+2018-05-16 12:10:02,111 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - If login button is not visible trying the catch block for the exception
+2018-05-16 12:10:03,980 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Retrieve the home page title
+2018-05-16 12:10:03,994 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Check the retrieved title of the home page matches our expected home page title
+2018-05-16 12:11:32,457 - sendMail -INFO - Mail sent successfully
+2018-05-16 12:35:22,236 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the URL
+2018-05-16 12:35:27,784 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the username
+2018-05-16 12:35:28,039 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the password
+2018-05-16 12:35:38,975 - sendMail -INFO - Mail sent successfully
+2018-05-16 12:36:45,386 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the URL
+2018-05-16 12:36:50,550 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the username
+2018-05-16 12:36:50,902 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the password
+2018-05-16 12:36:59,670 - sendMail -INFO - Mail sent successfully
+2018-05-16 12:37:34,945 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the URL
+2018-05-16 12:37:40,387 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the username
+2018-05-16 12:37:40,664 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the password
+2018-05-16 12:37:49,746 - sendMail -INFO - Mail sent successfully
+2018-05-16 12:38:20,008 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the URL
+2018-05-16 12:38:25,925 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the username
+2018-05-16 12:38:26,477 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the password
+2018-05-16 12:39:02,963 - sendMail -INFO - Mail sent successfully
+2018-05-16 12:40:29,582 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the URL
+2018-05-16 12:40:34,791 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the username
+2018-05-16 12:40:35,082 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the password
+2018-05-16 12:40:41,475 - sendMail -INFO - Mail sent successfully
+2018-05-16 12:41:17,274 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the URL
+2018-05-16 12:41:23,420 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the username
+2018-05-16 12:41:23,774 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the password
+2018-05-16 12:41:31,139 - sendMail -INFO - Mail sent successfully
+2018-05-16 12:42:02,114 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the URL
+2018-05-16 12:42:08,553 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the username
+2018-05-16 12:42:08,868 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the password
+2018-05-16 12:42:17,168 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Clicked on login button and proceeding towards the home page.
+2018-05-16 12:42:17,175 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Retrieve the home page title
+2018-05-16 12:42:17,199 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Check the retrieved title of the home page matches our expected home page title
+2018-05-16 12:42:17,231 - Create Contact -INFO - Trying with third catch block to re-try the hovering of the mouse to the contacts button.
+2018-05-16 12:42:27,359 - sendMail -INFO - Mail sent successfully
+2018-05-16 12:44:55,833 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the URL
+2018-05-16 12:45:01,495 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the username
+2018-05-16 12:45:01,771 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the password
+2018-05-16 12:45:08,658 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Clicked on login button and proceeding towards the home page.
+2018-05-16 12:45:08,665 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Retrieve the home page title
+2018-05-16 12:45:08,687 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Check the retrieved title of the home page matches our expected home page title
+2018-05-16 12:45:08,719 - Create Contact -INFO - Trying with third catch block to re-try the hovering of the mouse to the contacts button.
+2018-05-16 12:45:14,479 - sendMail -INFO - Mail sent successfully
+2018-05-16 12:48:56,026 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the URL
+2018-05-16 12:49:01,510 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the username
+2018-05-16 12:49:01,770 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the password
+2018-05-16 12:49:07,889 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Clicked on login button and proceeding towards the home page.
+2018-05-16 12:49:07,894 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Retrieve the home page title
+2018-05-16 12:49:07,913 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Check the retrieved title of the home page matches our expected home page title
+2018-05-16 12:49:15,980 - Create Contact -INFO - Trying with third catch block to re-try the hovering of the mouse to the contacts button.
+2018-05-16 12:49:23,014 - sendMail -INFO - Mail sent successfully
+2018-05-16 12:53:59,542 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the URL
+2018-05-16 12:54:04,708 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the username
+2018-05-16 12:54:04,975 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the password
+2018-05-16 12:54:11,297 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Clicked on login button and proceeding towards the home page.
+2018-05-16 12:54:11,323 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Retrieve the home page title
+2018-05-16 12:54:11,356 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Check the retrieved title of the home page matches our expected home page title
+2018-05-16 12:54:19,488 - Create Contact -INFO - Trying with third catch block to re-try the hovering of the mouse to the contacts button.
+2018-05-16 12:54:25,714 - sendMail -INFO - Mail sent successfully
+2018-05-16 12:55:21,206 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the URL
+2018-05-16 12:55:27,322 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the username
+2018-05-16 12:55:27,571 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the password
+2018-05-16 12:55:36,640 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Clicked on login button and proceeding towards the home page.
+2018-05-16 12:55:36,671 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Retrieve the home page title
+2018-05-16 12:55:36,692 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Check the retrieved title of the home page matches our expected home page title
+2018-05-16 12:55:52,962 - sendMail -INFO - Mail sent successfully
+2018-05-16 12:57:33,247 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the URL
+2018-05-16 12:57:38,489 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the username
+2018-05-16 12:57:38,736 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the password
+2018-05-16 12:57:47,336 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Clicked on login button and proceeding towards the home page.
+2018-05-16 12:57:47,369 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Retrieve the home page title
+2018-05-16 12:57:47,398 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Check the retrieved title of the home page matches our expected home page title
+2018-05-16 12:57:55,573 - Create Contact -INFO - Trying with third catch block to re-try the hovering of the mouse to the contacts button.
+2018-05-16 12:58:09,464 - sendMail -INFO - Mail sent successfully
+2018-05-16 13:04:59,303 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the URL
+2018-05-16 13:05:04,546 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the username
+2018-05-16 13:05:04,765 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the password
+2018-05-16 13:05:10,451 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Clicked on login button and proceeding towards the home page.
+2018-05-16 13:05:10,481 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Retrieve the home page title
+2018-05-16 13:05:10,505 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Check the retrieved title of the home page matches our expected home page title
+2018-05-16 13:05:18,694 - Create Contact -INFO - Hover the mouse to the contacts button on the top bar
+2018-05-16 13:05:19,019 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Selected the contacts dropdown by hovering the mouse over it
+2018-05-16 13:05:27,024 - Create Contact -INFO - Once the sub menu opens trying to clock on the new contact option to create a new contact
+2018-05-16 13:05:27,127 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Selected the new contacts option from the drop down to create a new contact.
+2018-05-16 13:05:27,131 - Create Contact -INFO - Once in the new contact page, user tries to click on the title drop down menu
+2018-05-16 13:05:29,226 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Selected the initials of the contact person
+2018-05-16 13:05:29,231 - Create Contact -INFO - Enter the first name using list
+2018-05-16 13:05:29,419 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Entered the first name of the contact person
+2018-05-16 13:05:29,422 - Create Contact -INFO - Enter the first name using list
+2018-05-16 13:05:29,511 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Entered the last name of the contact person
+2018-05-16 13:05:29,516 - Create Contact -INFO - Click on save button
+2018-05-16 13:05:34,715 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Clicked on save button of the contact
+2018-05-16 13:05:34,719 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Once the contact is saved, user tries to click on the contacts button once again to view the saved details
+2018-05-16 13:05:40,954 - sendMail -INFO - Mail sent successfully
+2018-05-16 13:07:35,511 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the URL
+2018-05-16 13:07:41,074 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the username
+2018-05-16 13:07:41,325 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the password
+2018-05-16 13:07:48,160 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Clicked on login button and proceeding towards the home page.
+2018-05-16 13:07:48,165 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Retrieve the home page title
+2018-05-16 13:07:48,186 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Check the retrieved title of the home page matches our expected home page title
+2018-05-16 13:07:56,575 - Create Contact -INFO - Hover the mouse to the contacts button on the top bar
+2018-05-16 13:07:56,943 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Selected the contacts dropdown by hovering the mouse over it
+2018-05-16 13:08:04,953 - Create Contact -INFO - Once the sub menu opens trying to clock on the new contact option to create a new contact
+2018-05-16 13:08:05,052 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Selected the new contacts option from the drop down to create a new contact.
+2018-05-16 13:08:05,055 - Create Contact -INFO - Once in the new contact page, user tries to click on the title drop down menu
+2018-05-16 13:08:07,480 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Selected the initials of the contact person
+2018-05-16 13:08:07,486 - Create Contact -INFO - Enter the first name using list
+2018-05-16 13:08:07,679 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Entered the first name of the contact person
+2018-05-16 13:08:07,682 - Create Contact -INFO - Enter the last name using list
+2018-05-16 13:08:07,815 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Entered the last name of the contact person
+2018-05-16 13:08:07,822 - Create Contact -INFO - Click on save button
+2018-05-16 13:08:12,954 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Clicked on save button of the contact
+2018-05-16 13:08:12,957 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Once the contact is saved, user tries to click on the contacts button once again to view the saved details
+2018-05-16 13:08:18,061 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Storing all the contact information into a list
+2018-05-16 13:08:18,086 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Getting the size of the list table contents
+2018-05-16 13:08:18,087 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Check if the contact person created is available in the contacts table.
+2018-05-16 13:08:23,094 - Create Contact -INFO - Click on logout button
+2018-05-16 13:08:23,126 - Create Contact -INFO - Click on logout button for a third try if the first try could not get the logout element
+2018-05-16 13:08:30,532 - sendMail -INFO - Mail sent successfully
+2018-05-16 13:10:54,181 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the URL
+2018-05-16 13:11:01,992 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the username
+2018-05-16 13:11:02,230 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Enter the password
+2018-05-16 13:11:12,180 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Clicked on login button and proceeding towards the home page.
+2018-05-16 13:11:12,215 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Retrieve the home page title
+2018-05-16 13:11:12,236 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Check the retrieved title of the home page matches our expected home page title
+2018-05-16 13:11:20,351 - Create Contact -INFO - Hover the mouse to the contacts button on the top bar
+2018-05-16 13:11:20,496 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Selected the contacts dropdown by hovering the mouse over it
+2018-05-16 13:11:28,501 - Create Contact -INFO - Once the sub menu opens trying to clock on the new contact option to create a new contact
+2018-05-16 13:11:28,607 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Selected the new contacts option from the drop down to create a new contact.
+2018-05-16 13:11:28,610 - Create Contact -INFO - Once in the new contact page, user tries to click on the title drop down menu
+2018-05-16 13:11:30,333 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Selected the initials of the contact person
+2018-05-16 13:11:30,338 - Create Contact -INFO - Enter the first name using list
+2018-05-16 13:11:30,511 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Entered the first name of the contact person
+2018-05-16 13:11:30,517 - Create Contact -INFO - Enter the last name using list
+2018-05-16 13:11:30,681 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Entered the last name of the contact person
+2018-05-16 13:11:30,688 - Create Contact -INFO - Click on save button
+2018-05-16 13:11:35,839 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Clicked on save button of the contact
+2018-05-16 13:11:35,924 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Once the contact is saved, user tries to click on the contacts button once again to view the saved details
+2018-05-16 13:11:41,083 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Storing all the contact information into a list
+2018-05-16 13:12:04,075 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Getting the size of the list table contents
+2018-05-16 13:12:04,190 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Check if the contact person created is available in the contacts table.
+2018-05-16 13:12:09,309 - Create Contact -INFO - Click on logout button
+2018-05-16 13:12:09,385 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - Clicked on logout button and moving towards login page
+2018-05-16 13:12:16,388 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - User retrieves the title of the login page
+2018-05-16 13:12:16,462 - com.domain.cucumber.stepdefinations.CreateContactTests -INFO - User checks if the title matches the original login title
+2018-05-16 13:12:30,050 - sendMail -INFO - Mail sent successfully

@@ -1,0 +1,32 @@
+2018-05-14 16:07:36,710 [main] INFO com.domain.api.tests.LoginTests - Create an object of login request body
+2018-05-14 16:07:36,741 [main] INFO com.domain.api.tests.LoginTests - Passing the body as a post request and retrieving the body result from the post request.
+2018-05-14 16:07:51,575 [main] INFO com.domain.api.tests.LoginTests - Get the body in string format
+2018-05-14 16:07:51,803 [main] INFO com.domain.api.tests.LoginTests - Converting the body from JSON body to GSON Body
+2018-05-14 16:07:52,383 [main] INFO com.domain.api.tests.LoginTests - Get the ID
+2018-05-14 16:07:52,384 [main] INFO com.domain.api.tests.LoginTests - Get the Token
+2018-05-14 16:07:52,385 [main] INFO com.domain.api.tests.LoginTests - Check if the user id matches as per our expected output.
+2018-05-14 16:27:45,359 [main] INFO com.domain.api.tests.LoginTests - Create an object of login request body
+2018-05-14 16:27:45,660 [main] INFO com.domain.api.tests.LoginTests - Passing the body as a post request and retrieving the body result from the post request.
+2018-05-14 16:28:01,695 [main] INFO com.domain.api.tests.LoginTests - Get the body in string format
+2018-05-14 16:28:01,735 [main] INFO com.domain.api.tests.LoginTests - Converting the body from JSON body to GSON Body
+2018-05-14 16:28:01,759 [main] INFO com.domain.api.tests.LoginTests - Get the ID
+2018-05-14 16:28:01,759 [main] INFO com.domain.api.tests.LoginTests - Get the Token
+2018-05-14 16:28:01,759 [main] INFO com.domain.api.tests.LoginTests - Check if the user id matches as per our expected output.
+2018-05-14 16:28:10,663 [main] INFO sendMail - Mail sent successfully
+2018-05-14 16:28:16,332 [main] INFO sendMail - Mail sent successfully
+2018-05-14 17:10:47,896 [main] INFO com.domain.api.tests.LoginTests - Create an object of login request body
+2018-05-14 17:10:47,936 [main] INFO com.domain.api.tests.LoginTests - Passing the body as a post request and retrieving the body result from the post request.
+2018-05-14 17:11:05,078 [main] INFO com.domain.api.tests.LoginTests - Get the body in string format
+2018-05-14 17:11:05,130 [main] INFO com.domain.api.tests.LoginTests - Converting the body from JSON body to GSON Body
+2018-05-14 17:11:05,364 [main] INFO com.domain.api.tests.LoginTests - Get the ID
+2018-05-14 17:11:05,365 [main] INFO com.domain.api.tests.LoginTests - Get the Token
+2018-05-14 17:11:05,365 [main] INFO com.domain.api.tests.LoginTests - Check if the user id matches as per our expected output.
+2018-05-14 17:11:13,743 [main] INFO sendMail - Mail sent successfully
+2018-05-25 17:15:09,292 [main] INFO com.domain.api.tests.LoginTests - Create an object of login request body
+2018-05-25 17:15:09,310 [main] INFO com.domain.api.tests.LoginTests - Passing the body as a post request and retrieving the body result from the post request.
+2018-05-25 17:15:13,220 [main] INFO com.domain.api.tests.LoginTests - Get the body in string format
+2018-05-25 17:15:13,235 [main] INFO com.domain.api.tests.LoginTests - Converting the body from JSON body to GSON Body
+2018-05-25 17:15:13,303 [main] INFO com.domain.api.tests.LoginTests - Get the ID
+2018-05-25 17:15:13,303 [main] INFO com.domain.api.tests.LoginTests - Get the Token
+2018-05-25 17:15:13,304 [main] INFO com.domain.api.tests.LoginTests - Check if the user id matches as per our expected output.
+2018-05-25 17:15:20,118 [main] INFO sendMail - Mail sent successfully

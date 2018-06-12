@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.domain.api.tests.LoginTests">
+        <methods>
+          <include name="endReport"/>
+          <include name="startReport"/>
+          <include name="precondition"/>
+          <include name="verify_login_to_the_application_using_valid_username_and_password"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.domain.api.tests.LoginTests -->
+      <class name="com.domain.tests.LoginTest">
+        <methods>
+          <include name="endReport"/>
+          <include name="verify_login_with_valid_username_and_password"/>
+          <include name="startReport"/>
+          <include name="verify_login_and_logout_with_valid_user_name_and_password"/>
+          <include name="preCondition"/>
+          <include name="postCondition"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.domain.tests.LoginTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
